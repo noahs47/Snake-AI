@@ -1,1 +1,2 @@
-# Snake-AI - This is an AI that can proficiently play a game of Snake. The snake_game.py file is unedited, and the bot.py has the actual work. The orignal file simply made random moves, and I implemented new logic to make it better at staying alive and reaching a higher score.
+# Snake-AI - 
+This is an AI that can proficiently play a game of Snake. The snake_game.py file is unedited, and the bot.py has the actual work. The orignal file simply made random moves, and I implemented new logic to make it better at staying alive and reaching a higher score.
